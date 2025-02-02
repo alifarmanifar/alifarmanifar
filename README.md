@@ -8,9 +8,6 @@
 <a href="https://wakatime.com/@sajjadmrx" target="_blank">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=sajjadmrx&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=gruvbox">
 <a/>
-
-Hi, my name is sajjad. I like music, coding, and playing video games!
-
 <p align="left">Languages & Tools</p>
 
 ###
