@@ -26,7 +26,6 @@ Hi, my name is sajjad. I like music, coding, and playing video games!
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
@@ -48,12 +47,6 @@ Hi, my name is sajjad. I like music, coding, and playing video games!
   <a href="https://t.me/sajjadmrx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sajjadmrx/count.svg?"  />
 </div>
 
 ###
